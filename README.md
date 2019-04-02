@@ -1,5 +1,5 @@
 # fallen
-fall detector app for MCAN
+fall detector app for MCAN lab
 
 
 ------------------------------------------
