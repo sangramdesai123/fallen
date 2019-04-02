@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\.android\build-cache\20b1b881fd1e6a12cc8260bd0965e562746f76ff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Sangram\AndroidStudioProjects\FallDetector\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_217f35cda6234d007d8b2494823bae17150daff2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\AndroidStudioProjects\FallDetector\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2459f802dd807c1da4d875f79866e1a669911fe">
+        <dex dex="C:\Users\Sangram\AndroidStudioProjects\FallDetector\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_32e0e922a58ea05da812500dcaf7ff4d92c8bf8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Sangram\AndroidStudioProjects\FallDetector\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_0af1622e34d9012c1e15081dd4bbfe073f04ffa2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\.android\build-cache\134e7ba932b49fa5c270522cb6d464e8594721e6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Sangram\AndroidStudioProjects\FallDetector\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_61114b83099644faa435d11d37c349e3c8ff4aef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\AndroidStudioProjects\FallDetector\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Sangram\AndroidStudioProjects\FallDetector\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_eeb1f0c08f42c1114096ff1fbd815a2bdf1138ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\.android\build-cache\bfdb480a398c8d6b2968a1c647463e7b99745c2b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Sangram\AndroidStudioProjects\FallDetector\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b8b904c0fc5b3eda03da43901efe649143aae26b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\.android\build-cache\83ef91c4999a5b43deb45957099399fe8f4b5d9d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Sangram\AndroidStudioProjects\FallDetector\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ffec0d165082edb54435ea4b9aad3c43e53c80d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Sangram\AndroidStudioProjects\FallDetector\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_5b4b98fbe2d7f61d8949f699787fba2559896c52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\.android\build-cache\892098a38520c4182e83dda275a64ef63ad3ffdc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Sangram\AndroidStudioProjects\FallDetector\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe50d090314e1f662792fe48278a58263f94c223\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\.android\build-cache\2e9c74f9d033b9d6468ce9856a524a69caf745a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Sangram\AndroidStudioProjects\FallDetector\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d43ad65934636c00942c4b8750ea6565f355ae57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\.android\build-cache\2a6836dda60dcd49a8f05fff491a8e494cdda428\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Sangram\AndroidStudioProjects\FallDetector\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_529220925bed110d28b1e1ed976a042a90587c06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\.android\build-cache\83d052e358b7683f3f91c6c217ff9341e3289f58\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Sangram\AndroidStudioProjects\FallDetector\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ac022235232d5059689cfc2518c63161801256a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.3\92fb46ea210fc3f0ab1125f28b33cf098583e8cf\MPAndroidChart-v3.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="92fb46ea210fc3f0ab1125f28b33cf098583e8cf">
+        <dex dex="C:\Users\Sangram\AndroidStudioProjects\FallDetector\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v3.0.3_7191a8575621bbeaa9950115a2f3ed381f46f4ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\.android\build-cache\3697e90f54905ccf910823945dcff54e07db07d1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Sangram\AndroidStudioProjects\FallDetector\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_476e942d33325bfcf447bc149edc7c026a95a5a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sangram\.android\build-cache\0aad68342f19d720e0534fd9af5369f3509f9cbb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Sangram\AndroidStudioProjects\FallDetector\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_563d423ad3be18e53c70755324b2a9a1379ffa96\classes.dex" />
+    </item>
+
+</items>
