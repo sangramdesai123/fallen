@@ -2,9 +2,13 @@
 fall detector app for MCAN lab
 
 1.add contact
+
 2.graph page
+
 3.fall detect
+
 4.make a call 
+
 
 
 ------------------------------------------
